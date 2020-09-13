@@ -1,4 +1,2 @@
 # free-game
-communist game
-
-soyuz nerushimy respublik svobodynkh
+Empty null void ignore this
